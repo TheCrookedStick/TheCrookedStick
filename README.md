@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to The Crooked Stick's Github page.  
+I have no idea what I'm doing.   I'm trying to become proficient in GitHub...but for now, I'm like a hungry, sleep deprived toddler with a dirty diaper.   I'm stupid, frustrated and stinking up the place.   Hopefully I figure it out before I smash my computer   👋
 
 <!--
 **TheCrookedStick/TheCrookedStick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
